@@ -29,7 +29,7 @@ Together, they provide a structured reference for understanding the process invo
 
 I have also published a Medium article on **Windows Memory Forensics**.
 
-🔗 **Read the article:** *[Add your Medium article link here]*
+🔗 **Read the article:** *https://medium.com/@thejthej69/windows-memory-forensics-for-beginners-capturing-and-analyzing-ram-with-winpmem-ftk-imager-and-5754d909a6c9*
 
 ## 🚀 How to Use
 
